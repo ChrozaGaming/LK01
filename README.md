@@ -18,4 +18,4 @@ Untuk menjalankan project ini, Anda perlu mengakses direktori `src` terlebih dah
 3. Setelah itu, arahkan ke direktori `src` dengan mengetikkan perintah `cd src`.
 4. Jalankan file `Main.java` dengan mengetikkan perintah `java Main.java`.
 
-Selamat mencoba!
+Terimakasih telah mengunjungi Repository Ini!
